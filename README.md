@@ -17,8 +17,8 @@ I post my school projects here to build my portfolio and document my experience 
 
 ## Projects
 
-- [C++ Project 1](https://github.com/SeanWalborn/Project1) – Description of the project goes here.
-- [C++ Project 2](https://github.com/SeanWalborn/Project2) – Description of the project goes here.
+- [C++ Project 1](https://github.com/SeanWalborn/Projects/tree/main/Project%201) – Description of the project goes here.
+- [C++ Project 2](https://github.com/SeanWalborn/Projects/tree/main/Project%202) – Description of the project goes here.
 
 ---
 
