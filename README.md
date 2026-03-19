@@ -8,9 +8,9 @@ I post my school projects here to build my portfolio and document my experience 
 
 ## Languages
 
+<span style="background-color:#3498db;color:white;padding:3px 8px;border-radius:5px;margin-right:5px;">C++, </span>
 <span style="background-color:#3498db;color:white;padding:3px 8px;border-radius:5px;margin-right:5px;">JavaScript, </span>
 <span style="background-color:#3498db;color:white;padding:3px 8px;border-radius:5px;margin-right:5px;">Java, </span>
-<span style="background-color:#3498db;color:white;padding:3px 8px;border-radius:5px;margin-right:5px;">C++, </span>
 <span style="background-color:#3498db;color:white;padding:3px 8px;border-radius:5px;margin-right:5px;">Python (learning)</span>
 
 ---
